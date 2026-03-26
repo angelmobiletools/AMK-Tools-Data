@@ -321,5 +321,22 @@
     "StatusCode": 1,
     "Username": "",
     "WindowsName": "UMT_FADR"
+  },
+  {
+    "AndroidName": "SPD v0.9v",
+    "Category": "Umt",
+    "CreatedAt": "\/Date(1774555367495+0300)\/",
+    "Id": "6feba2b4-d3f5-478f-962e-00d65d1adee5",
+    "IsFavorite": false,
+    "Link1": "https:\/\/tinyurl.com\/u593vbbf",
+    "Link2": "https:\/\/drive.google.com\/open?id=14REbr0oEI4CgrwTb2xaZj2N1ewleL58y&usp=drive_fs",
+    "Name": "UMT_UNISOC_Installer_v0.9 UmtTeam",
+    "Notes": "",
+    "OrderIndex": 0,
+    "Password": "",
+    "Platform": "Both",
+    "StatusCode": 1,
+    "Username": "",
+    "WindowsName": "SPD v0.9v"
   }
 ]
