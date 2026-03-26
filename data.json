@@ -37,7 +37,7 @@
     "Name": "Samsung Android 16 tool",
     "Notes": "",
     "Password": "",
-    "Platform": null,
+    "Platform": "PC",
     "StatusCode": 1,
     "Username": ""
   },
@@ -159,11 +159,11 @@
     "Id": "ab23ecbc-0318-428e-9511-2a481ee08520",
     "IsFavorite": false,
     "Link1": "https:\/\/www.dropbox.com\/scl\/fi\/kah44ajo8vdtunspdwg6u\/AngelMobileRemoteTool.rar?rlkey=vdz8xsoovwv3gxvvpzmmcstf9&st=mo0v7lpy&dl=1",
-    "Link2": "",
+    "Link2": "https:\/\/drive.google.com\/open?id=1Q0je3ZWj8cbtMUb55seGbUW0A8BmVr1y&usp=drive_fs",
     "Name": "Angel Remote Tool",
     "Notes": "",
     "Password": "",
-    "Platform": null,
+    "Platform": "PC",
     "StatusCode": 1,
     "Username": ""
   },
