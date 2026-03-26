@@ -338,5 +338,22 @@
     "StatusCode": 1,
     "Username": "",
     "WindowsName": "SPD v0.9v"
+  },
+  {
+    "AndroidName": "QC V10.4",
+    "Category": "Umt",
+    "CreatedAt": "\/Date(1774555605225+0300)\/",
+    "Id": "5ab4df67-8af7-4cec-b2af-9f8f402e225a",
+    "IsFavorite": false,
+    "Link1": "https:\/\/tinyurl.com\/yc4r2bfu",
+    "Link2": "https:\/\/drive.google.com\/open?id=1msMmriOhEbcxbcOqhDWh-aIJjFM-lFSV&usp=drive_fs",
+    "Name": "UMTv2 UMTPro QcFire v10.6",
+    "Notes": "",
+    "OrderIndex": 0,
+    "Password": "",
+    "Platform": "Both",
+    "StatusCode": 1,
+    "Username": "",
+    "WindowsName": "QC V10.4"
   }
 ]
