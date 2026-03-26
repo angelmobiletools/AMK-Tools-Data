@@ -9,6 +9,7 @@
     "Name": "SamFw Tool",
     "Notes": "Samsung FRP bypass",
     "Password": "",
+    "Platform": null,
     "StatusCode": 1,
     "Username": ""
   },
@@ -22,6 +23,7 @@
     "Name": "Vivo Unlock Tool",
     "Notes": "Vivo FRP bypass",
     "Password": "pass1",
+    "Platform": null,
     "StatusCode": 1,
     "Username": "vivo_tech"
   },
@@ -35,6 +37,7 @@
     "Name": "Samsung Android 16 tool",
     "Notes": "",
     "Password": "",
+    "Platform": null,
     "StatusCode": 1,
     "Username": ""
   },
@@ -48,6 +51,7 @@
     "Name": "Sigma Plus",
     "Notes": "",
     "Password": "",
+    "Platform": null,
     "StatusCode": 1,
     "Username": ""
   },
@@ -61,6 +65,7 @@
     "Name": "GMS_EFT-FIX",
     "Notes": "",
     "Password": "",
+    "Platform": null,
     "StatusCode": 1,
     "Username": ""
   },
@@ -74,6 +79,7 @@
     "Name": "zadig-2.9",
     "Notes": "",
     "Password": "",
+    "Platform": null,
     "StatusCode": 1,
     "Username": ""
   },
@@ -87,6 +93,7 @@
     "Name": "Redmin Vpn",
     "Notes": "",
     "Password": "",
+    "Platform": null,
     "StatusCode": 1,
     "Username": ""
   },
@@ -100,6 +107,7 @@
     "Name": "AMK Tools All Mobile Driver Suite",
     "Notes": "",
     "Password": "",
+    "Platform": null,
     "StatusCode": 1,
     "Username": ""
   },
@@ -113,6 +121,7 @@
     "Name": "Realme Tool",
     "Notes": "",
     "Password": "",
+    "Platform": null,
     "StatusCode": 1,
     "Username": ""
   },
@@ -126,6 +135,7 @@
     "Name": "Xiomi Frp Usb redirecter",
     "Notes": "",
     "Password": "",
+    "Platform": null,
     "StatusCode": 1,
     "Username": ""
   },
@@ -139,6 +149,7 @@
     "Name": "Usb Rediretcer",
     "Notes": "",
     "Password": "",
+    "Platform": null,
     "StatusCode": 1,
     "Username": ""
   },
@@ -152,6 +163,7 @@
     "Name": "Angel Remote Tool",
     "Notes": "",
     "Password": "",
+    "Platform": null,
     "StatusCode": 1,
     "Username": ""
   },
@@ -165,6 +177,7 @@
     "Name": "Unlock tool",
     "Notes": "",
     "Password": "",
+    "Platform": null,
     "StatusCode": 1,
     "Username": ""
   },
@@ -178,6 +191,7 @@
     "Name": "Amt",
     "Notes": "",
     "Password": "",
+    "Platform": null,
     "StatusCode": 1,
     "Username": ""
   },
@@ -191,6 +205,7 @@
     "Name": "Black screen",
     "Notes": "",
     "Password": "",
+    "Platform": null,
     "StatusCode": 1,
     "Username": ""
   },
@@ -204,6 +219,7 @@
     "Name": "Rft Tool",
     "Notes": "",
     "Password": "",
+    "Platform": null,
     "StatusCode": 1,
     "Username": ""
   },
@@ -217,6 +233,7 @@
     "Name": "Device manager",
     "Notes": "",
     "Password": "",
+    "Platform": null,
     "StatusCode": 1,
     "Username": ""
   }
