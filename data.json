@@ -145,11 +145,11 @@
     "Id": "6401b59a-8a6b-45db-a0d9-12a9f9603dd9",
     "IsFavorite": false,
     "Link1": "https:\/\/drive.google.com\/open?id=1NsIZEA3Iawno5TDyUOZdA6yKMvXphXJr&usp=drive_fs",
-    "Link2": "",
+    "Link2": "https:\/\/github.com\/angelmobiletools\/AMK-Tools-Data\/releases\/download\/Alllinks\/FRP197.rar",
     "Name": "Usb Rediretcer",
     "Notes": "",
     "Password": "",
-    "Platform": null,
+    "Platform": "PC",
     "StatusCode": 1,
     "Username": ""
   },
