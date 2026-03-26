@@ -1,5 +1,6 @@
 [
   {
+    "AndroidName": null,
     "Category": "Samsung",
     "CreatedAt": "\/Date(1773074091452+0300)\/",
     "Id": "0863ae45-9ec1-497a-9818-707f021b8ab0",
@@ -12,9 +13,11 @@
     "Password": "",
     "Platform": null,
     "StatusCode": 1,
-    "Username": ""
+    "Username": "",
+    "WindowsName": null
   },
   {
+    "AndroidName": null,
     "Category": "Vivo",
     "CreatedAt": "\/Date(1773074091452+0300)\/",
     "Id": "2fca90f6-d031-49df-acf3-6966b49b187c",
@@ -27,9 +30,11 @@
     "Password": "pass1",
     "Platform": null,
     "StatusCode": 1,
-    "Username": "vivo_tech"
+    "Username": "vivo_tech",
+    "WindowsName": null
   },
   {
+    "AndroidName": null,
     "Category": "Samsung",
     "CreatedAt": "\/Date(1773074431921+0300)\/",
     "Id": "db3f953f-dbe9-47f0-81cb-ddd965fbd090",
@@ -42,9 +47,11 @@
     "Password": "",
     "Platform": "PC",
     "StatusCode": 1,
-    "Username": ""
+    "Username": "",
+    "WindowsName": null
   },
   {
+    "AndroidName": null,
     "Category": "Samsung",
     "CreatedAt": "\/Date(1773153516264+0300)\/",
     "Id": "cbf9ca3b-7c92-4367-be12-36af29e8f261",
@@ -57,9 +64,11 @@
     "Password": "",
     "Platform": null,
     "StatusCode": 1,
-    "Username": ""
+    "Username": "",
+    "WindowsName": null
   },
   {
+    "AndroidName": null,
     "Category": "Samsung",
     "CreatedAt": "\/Date(1773153619476+0300)\/",
     "Id": "059bd5bb-0405-4480-b600-e60f0b38d91e",
@@ -72,9 +81,11 @@
     "Password": "",
     "Platform": null,
     "StatusCode": 1,
-    "Username": ""
+    "Username": "",
+    "WindowsName": null
   },
   {
+    "AndroidName": null,
     "Category": "Samsung",
     "CreatedAt": "\/Date(1773153649485+0300)\/",
     "Id": "56ee1224-92c7-4769-9658-47389b3b691b",
@@ -87,9 +98,11 @@
     "Password": "",
     "Platform": null,
     "StatusCode": 1,
-    "Username": ""
+    "Username": "",
+    "WindowsName": null
   },
   {
+    "AndroidName": null,
     "Category": "Samsung",
     "CreatedAt": "\/Date(1773153709397+0300)\/",
     "Id": "d1d7b8d0-e068-4ad0-b135-3c6dd4ec35e9",
@@ -102,9 +115,11 @@
     "Password": "",
     "Platform": null,
     "StatusCode": 1,
-    "Username": ""
+    "Username": "",
+    "WindowsName": null
   },
   {
+    "AndroidName": null,
     "Category": "Drivers",
     "CreatedAt": "\/Date(1773153752254+0300)\/",
     "Id": "4c4c3897-7aac-436e-8281-a845075c9074",
@@ -117,9 +132,11 @@
     "Password": "",
     "Platform": null,
     "StatusCode": 1,
-    "Username": ""
+    "Username": "",
+    "WindowsName": null
   },
   {
+    "AndroidName": null,
     "Category": "Realme",
     "CreatedAt": "\/Date(1773153777617+0300)\/",
     "Id": "d49671f1-46a6-43a6-bbc3-4f8d33f4fe35",
@@ -132,9 +149,11 @@
     "Password": "",
     "Platform": null,
     "StatusCode": 1,
-    "Username": ""
+    "Username": "",
+    "WindowsName": null
   },
   {
+    "AndroidName": null,
     "Category": "Xiaomi",
     "CreatedAt": "\/Date(1773157866337+0300)\/",
     "Id": "2509f671-9f60-4d57-8c9d-41f2c241d5e4",
@@ -147,9 +166,11 @@
     "Password": "",
     "Platform": null,
     "StatusCode": 1,
-    "Username": ""
+    "Username": "",
+    "WindowsName": null
   },
   {
+    "AndroidName": null,
     "Category": "FRP Tools",
     "CreatedAt": "\/Date(1773157913103+0300)\/",
     "Id": "6401b59a-8a6b-45db-a0d9-12a9f9603dd9",
@@ -162,9 +183,11 @@
     "Password": "",
     "Platform": "PC",
     "StatusCode": 1,
-    "Username": ""
+    "Username": "",
+    "WindowsName": null
   },
   {
+    "AndroidName": null,
     "Category": "Online Work",
     "CreatedAt": "\/Date(1773157980313+0300)\/",
     "Id": "ab23ecbc-0318-428e-9511-2a481ee08520",
@@ -177,9 +200,11 @@
     "Password": "",
     "Platform": "PC",
     "StatusCode": 1,
-    "Username": ""
+    "Username": "",
+    "WindowsName": null
   },
   {
+    "AndroidName": null,
     "Category": "Online Work",
     "CreatedAt": "\/Date(1773158004050+0300)\/",
     "Id": "5c929ec3-15d8-42fd-b040-c3d2ff34623d",
@@ -192,9 +217,11 @@
     "Password": "",
     "Platform": null,
     "StatusCode": 1,
-    "Username": ""
+    "Username": "",
+    "WindowsName": null
   },
   {
+    "AndroidName": null,
     "Category": "Online Work",
     "CreatedAt": "\/Date(1773158047710+0300)\/",
     "Id": "b6128095-1fc3-4c16-ae99-51e1e4d6eb57",
@@ -207,9 +234,11 @@
     "Password": "",
     "Platform": null,
     "StatusCode": 1,
-    "Username": ""
+    "Username": "",
+    "WindowsName": null
   },
   {
+    "AndroidName": null,
     "Category": "Online Work",
     "CreatedAt": "\/Date(1773158086575+0300)\/",
     "Id": "d502246d-d3be-40ea-906b-3dd17381341a",
@@ -222,9 +251,11 @@
     "Password": "",
     "Platform": null,
     "StatusCode": 1,
-    "Username": ""
+    "Username": "",
+    "WindowsName": null
   },
   {
+    "AndroidName": null,
     "Category": "FRP Tools",
     "CreatedAt": "\/Date(1773479911540+0300)\/",
     "Id": "95f3655f-d7ae-4a03-9a5e-54bee8f250f4",
@@ -237,9 +268,11 @@
     "Password": "",
     "Platform": null,
     "StatusCode": 1,
-    "Username": ""
+    "Username": "",
+    "WindowsName": null
   },
   {
+    "AndroidName": null,
     "Category": "Drivers",
     "CreatedAt": "\/Date(1774469467783+0300)\/",
     "Id": "59957dc1-ced3-4074-890e-ce4fe735c389",
@@ -252,9 +285,11 @@
     "Password": "",
     "Platform": null,
     "StatusCode": 1,
-    "Username": ""
+    "Username": "",
+    "WindowsName": null
   },
   {
+    "AndroidName": "Card manager",
     "Category": "Umt",
     "CreatedAt": "\/Date(1774553610629+0300)\/",
     "Id": "1aa5e987-f96b-432e-9767-7453b8f09c41",
@@ -267,9 +302,11 @@
     "Password": "",
     "Platform": "Both",
     "StatusCode": 1,
-    "Username": ""
+    "Username": "",
+    "WindowsName": "Card MNG"
   },
   {
+    "AndroidName": "UMT_FADR",
     "Category": "Umt",
     "CreatedAt": "\/Date(1774553727416+0300)\/",
     "Id": "a3063162-d321-433a-8b6b-79c44e3b1dc7",
@@ -282,6 +319,7 @@
     "Password": "",
     "Platform": "Both",
     "StatusCode": 1,
-    "Username": ""
+    "Username": "",
+    "WindowsName": "UMT_FADR"
   }
 ]
