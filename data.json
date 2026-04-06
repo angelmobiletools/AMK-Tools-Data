@@ -51,21 +51,21 @@
     "WindowsName": null
   },
   {
-    "AndroidName": null,
+    "AndroidName": "",
     "Category": "Samsung",
     "CreatedAt": "\/Date(1773153516264+0300)\/",
     "Id": "cbf9ca3b-7c92-4367-be12-36af29e8f261",
     "IsFavorite": false,
-    "Link1": "https:\/\/sigmakey.com\/nfs\/content\/5802\/file\/sigmaplus-software-setup-v1.01.09.exe",
+    "Link1": "https:\/\/sigmakey.com\/nfs\/content\/5802\/file\/sigmaplus-software-setup-v1.01.10.exe",
     "Link2": "",
     "Name": "Sigma Plus",
     "Notes": "",
     "OrderIndex": 0,
     "Password": "",
-    "Platform": null,
+    "Platform": "PC",
     "StatusCode": 1,
     "Username": "",
-    "WindowsName": null
+    "WindowsName": ""
   },
   {
     "AndroidName": null,
